@@ -22,6 +22,7 @@
 > 1. 新增根据订单的拉取订单关联的自定义字段内容
 > 1. 新增机票订单详情中加入改签规则的详细说明
 > 1. 新增机票详情中不同订单状态类型的返回数据结构
+> 
 <!--endsec-->
 
 <!--sec data-title="V2.1 —— 2018-10-24" data-id="log21" data-show=true data-collapse=true ces-->
@@ -41,7 +42,7 @@
 > 1. 新增根据公司ID拉取自定义字段接口
 > 1. 修改新增第三方员工接口字段说明,一些字段可以为非必填字段
 > 1. 修改根据公司ID拉取自定义字段返回数据格式
-> ---
+> 
 <!--endsec-->
 
 <!--sec data-title="V1.2 —— 2018-08-13" data-id="log12" data-show=true data-collapse=true ces-->
