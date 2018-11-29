@@ -1,0 +1,78 @@
+{
+    "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
+    "title": "分贝通开放平台接口说明书",
+    "description": "分贝通开放平台接口说明书",
+    "author": "北京分贝金服科技有限公司",
+    "language": "zh-hans",
+    "gitbook": ">=3.0.0",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-sharing",
+        "search-plus",
+        "highlight",
+        "prism",
+        "advanced-emoji",
+        "ace",
+        "emphasize",
+        "splitter",
+        "mermaid-gb3",
+        "puml",
+        "graph",
+        "chart",
+        "expandable-chapters-small",
+        "sectionx",
+        "simple-page-toc",
+        "anchor-navigation-ex",
+        "copy-code-button",
+        "alerts",
+        "terminal",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "prism": {
+
+        },
+        "sectionx": {
+            "tag": "b"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "associatedWithSummary": true,
+            "printLog": false,
+            "multipleH1": true,
+            "mode": "float",
+            "showGoTop": true,
+            "float": {
+                "floatIcon": "fa fa-navicon",
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            },
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
+        "terminal": {
+            "copyButtons": true,
+            "fade": false,
+            "style": "flat"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright ©2015-2018 北京分贝金服科技有限公司",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
