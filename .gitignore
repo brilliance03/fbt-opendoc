@@ -1,2 +1,3 @@
 _book/*
 .vuepress/*
+node_modules/*
