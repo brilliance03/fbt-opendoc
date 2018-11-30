@@ -3,6 +3,9 @@
     "structure": {
         "readme": "README.md"
     },
+    "styles": {
+        "website": "styles/website.css"
+    },
     "title": "分贝通开放平台接口说明书",
     "description": "分贝通开放平台接口说明书",
     "author": "北京分贝金服科技有限公司",
@@ -13,10 +16,11 @@
         "-search",
         "-sharing",
         "search-plus",
-        "highlight",
+        "-highlight",
+        "-ace",
         "prism",
+        "prism-themes",
         "advanced-emoji",
-        "ace",
         "emphasize",
         "splitter",
         "mermaid-gb3",
@@ -34,7 +38,13 @@
     ],
     "pluginsConfig": {
         "prism": {
-
+            "css": [
+                "prismjs/themes/prism-okaidia.css"
+            ],
+            "ignore": [
+                "mermaid",
+                "eval-js"
+              ]
         },
         "sectionx": {
             "tag": "b"
