@@ -1,6 +1,6 @@
 ## 1.2 文档版本说明
 
-<!--sec data-title="V2.2.1 —— 2018-11-26" data-id="log221" data-show=true data-collapse=false ces-->
+<!--sec data-title="V2.2.0 —— 2018-11-26" data-id="log221" data-show=true data-collapse=false ces-->
 > **[warning] 接口状态：待发布**
 > 1. 新增项目中心相关接口，包括：
 >   - 新增项目中心
@@ -17,7 +17,7 @@
 > 
 <!--endsec-->
 
-<!--sec data-title="V2.2 —— 2018-10-25" data-id="log22" data-show=true data-collapse=true ces-->
+<!--sec data-title="V2.1.1 —— 2018-10-25" data-id="log22" data-show=true data-collapse=true ces-->
 > **[success] 接口状态：已发布**
 > 1. 新增根据订单的拉取订单关联的自定义字段内容
 > 1. 新增机票订单详情中加入改签规则的详细说明
@@ -25,7 +25,7 @@
 > 
 <!--endsec-->
 
-<!--sec data-title="V2.1 —— 2018-10-24" data-id="log21" data-show=true data-collapse=true ces-->
+<!--sec data-title="V2.1.0 —— 2018-10-24" data-id="log21" data-show=true data-collapse=true ces-->
 > **[success] 接口状态：已发布**
 > 1. [修改根据公司拉取自定义字段接口business字段说明
 > 1. 添加机票订单详情中改签相关信息
@@ -34,7 +34,7 @@
 > 
 <!--endsec-->
 
-<!--sec data-title="V2.0 —— 2018-09-25" data-id="log20" data-show=true data-collapse=true ces-->
+<!--sec data-title="V2.0.0 —— 2018-09-25" data-id="log20" data-show=true data-collapse=true ces-->
 > **[success] 接口状态：已发布**
 > 1. 新增酒店订单列表出发城市搜索条件，订单详情订单与原单关联
 > 1. 新增机票订单列表出发城市和到达城市搜索条件，详情订单与原单关联
@@ -45,7 +45,7 @@
 > 
 <!--endsec-->
 
-<!--sec data-title="V1.2 —— 2018-08-13" data-id="log12" data-show=true data-collapse=true ces-->
+<!--sec data-title="V1.2.0 —— 2018-08-13" data-id="log12" data-show=true data-collapse=true ces-->
 > **[success] 接口状态：已发布**
 > 1. 新增乘机人类型对照表
 > 1. 新增乘机人类型对照表
@@ -53,7 +53,7 @@
 > 
 <!--endsec-->
 
-<!--sec data-title="V1.1 —— 2018-07-01" data-id="log11" data-show=true data-collapse=true ces-->
+<!--sec data-title="V1.1.0 —— 2018-07-01" data-id="log11" data-show=true data-collapse=true ces-->
 > **[success] 接口状态：已发布**
 > 1. 新增组织架构中绑定第三方用户ID接口
 > 1. 新增根据第三方部门ID查询部门信息
@@ -66,7 +66,7 @@
 > 
 <!--endsec-->
 
-<!--sec data-title="V1.0 —— 2018-11-19" data-id="log10" data-show=true data-collapse=true ces-->
+<!--sec data-title="V1.0.0 —— 2018-11-19" data-id="log10" data-show=true data-collapse=true ces-->
 > **[success] 接口状态：已发布**
 > 1. 新增接口文档说明
 > 1. 新增API接入接口(包含组织架构的增删改查)
